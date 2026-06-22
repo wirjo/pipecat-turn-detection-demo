@@ -1,0 +1,6 @@
+pipecat-ai[aws,cartesia,silero,local,webrtc]
+pipecat-ai-prebuilt
+fastapi
+uvicorn
+small-webrtc-prebuilt>=0.0.6
+python-dotenv
